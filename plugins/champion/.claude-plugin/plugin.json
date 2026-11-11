@@ -1,0 +1,6 @@
+{
+  "name": "champion",
+  "version": "0.3.0",
+  "description": "AX 챔피언 — 전 직군 AX 교육 에이전트. /champion 으로 자기 업무를 '배포돼 자동으로 도는 에이전트'로 직접 만들고, 다음엔 혼자 만들게 돕는다. 교육 판단은 공용 서버 두뇌(/brain 프록시)에서, 실제 제작·배포는 로컬에서(하이브리드, 민감 로직 서버 보호).",
+  "author": { "name": "BK", "email": "bokkee.lee@wantedlab.com" }
+}

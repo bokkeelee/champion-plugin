@@ -1,0 +1,11 @@
+{
+  "name": "champion-marketplace",
+  "owner": { "name": "BK", "email": "bokkee.lee@wantedlab.com" },
+  "plugins": [
+    {
+      "name": "champion",
+      "source": "./plugins/champion",
+      "description": "AX 챔피언 — 전 직군 AX 교육 에이전트 (/champion)"
+    }
+  ]
+}
